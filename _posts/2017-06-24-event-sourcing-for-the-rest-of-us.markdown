@@ -2,7 +2,6 @@
 layout: post
 title:  "Event Sourcing for the rest of us"
 date:   2017-06-24 00:00:00 +0930
-categories: php eventsourcing
 ---
 
 ourcing, The CommandBus or Repository of 2017? Surly you've heard about it, but what exactly is it?

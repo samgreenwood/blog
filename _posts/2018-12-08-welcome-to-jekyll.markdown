@@ -2,7 +2,6 @@
 layout: post
 title:  "Hello to Jekyll"
 date:   2018-12-08 15:54:27 +1100
-categories: jekyll update
 ---
 My blog was on a broken server for a while, so everytime I went to write something, I ended up trying to fix things when I should have just been writing.
 

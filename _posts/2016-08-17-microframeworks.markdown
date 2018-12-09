@@ -2,7 +2,6 @@
 layout: post
 title:  "Inventing the Universe? Microframeworks"
 date:   2016-08-17 00:00:00 +0930
-categories: php
 ---
 
 ecently for a side project, I figured I would give the latest version of [http://www.slimframework.com/](Slim Framework<) a shot as I was building a small application where I didn't think I would need many 'full stack' framework features. For most projects, I generally reach for [http://laravel.com/](Laravel<).
