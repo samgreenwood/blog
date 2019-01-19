@@ -2,6 +2,7 @@
 layout: page
 title: Home
 permalink: /
+order: 1
 ---
 
 Hey, I'm Sam Greenwood!
