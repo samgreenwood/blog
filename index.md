@@ -1,6 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: Home
+permalink: /
 ---
+
+Hey, I'm Sam Greenwood!
+
+{{site.footer_description}}
+
+I spend most of my day job writing  web applications in PHP, working with other teams on business process improvements, and overall software architecture.
+
+My development skills are mostly geared towards backend development, APIs, database design and scaleable application architecture.
+
+I spend my nights and weekends hanging out with my awesome family, playing games, or drinking craft beer, hacking on code or something in between.

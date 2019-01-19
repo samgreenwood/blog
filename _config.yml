@@ -17,7 +17,7 @@ title: Sam Greenwood
 email: sam@samgreenwood.me
 description: PHP, Laravel, Symfony Architecture and DevOps.
 footer_description: >- # this means to ignore newlines until "baseurl:"
-    I am a Software Team Leader at Uniti Wireless by day, freelancer, hacker and internet nobody by night.
+    I am the Software Team Leader at Uniti Wireless by day, freelancer, hacker and internet nobody by night.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: samtgreenwood
