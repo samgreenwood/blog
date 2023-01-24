@@ -32,6 +32,7 @@ linkedin_username: samtgreenwood
 
 # Build settings
 theme: minima
+markdown: kramdown
 plugins:
   - jekyll-feed
 
