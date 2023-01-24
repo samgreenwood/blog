@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Introduction to TDD in PHP"
+date:   2018-04-27 00:00:00 +0930
+---
+At the April 2017 PHP Adelaide Meetup, I did an introductory talk on test driven development. We have a pretty mixed audience but a good introduction into the topic.
+
+[Watch the video here!](https://youtu.be/ONBoXSWusb4)
